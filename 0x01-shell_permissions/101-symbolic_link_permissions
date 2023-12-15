@@ -1,1 +1,2 @@
-100-change_owner_and_group
+#!/bin/bash
+chown -h vincent:staff _hello

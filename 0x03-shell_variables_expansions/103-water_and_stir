@@ -1,3 +1,2 @@
 #!/bin/bash
 printf "%x" "$((0x$WATER + 0x$STIR))"
-
